@@ -1,0 +1,29 @@
+body{
+    background-image: url(https://www.mypurpleslate.com/blog/wp-content/uploads/2014/10/iStock_000031439036_Medium.jpg);
+    background-size: 1700px 1200px;
+    background-position: center center;
+    background-repeat: no-repeat;
+  
+}
+
+.header {
+    color: white;
+    background-color: rgba(0,0,0,.7);
+    opacity: 70;
+    text-shadow:-2px -2px 0 #000,
+    2px -2px 0 #000,
+    -2px 2px 0 #000,
+    2px 2px 0 #000;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+
+
+
+.btn-primary {
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+}
+
