@@ -1,5 +1,4 @@
 
-
 var friends = [ {
     "name" : "Tony",
     "photo" : "https://images-na.ssl-images-amazon.com/images/S/sgp-catalog-images/region_US/paramount-35065-Full-Image_GalleryBackground-en-US-1483994508505._RI_SX940_.jpg",
