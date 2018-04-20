@@ -2,9 +2,16 @@ body{
     background-image: url(https://www.mypurpleslate.com/blog/wp-content/uploads/2014/10/iStock_000031439036_Medium.jpg);
     background-size: 1700px 1200px;
     background-position: center center;
-    background-repeat: no-repeat;
-  
+    background-repeat: no-repeat; 
 }
+
+/* .container {
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+    width: 100%;
+} */
 
 .header {
     color: white;
@@ -17,9 +24,6 @@ body{
     padding-top: 10px;
     padding-bottom: 20px;
 }
-
-
-
 
 .btn-primary {
     color: #fff;
